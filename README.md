@@ -50,20 +50,20 @@
 
 ## 📂 Featured Repositories
 
-- 🍳 [Odin Recipes](https://github.com/Diego526-hub/odin-recipes)
-- 🌐 [Landing Page](https://github.com/Diego526-hub/landing-page)
-- 🗄️ [PL/SQL Window Functions](https://github.com/Diego526-hub/plsql-window-functions-Diego-Gaju)
-- 🗄️ [PL/SQL PDB and OEM](https://github.com/Diego526-hub/plsql-pdb-oem-Diego-Gaju)
+- 🍳 [Odin Recipes](https://github.com/diegogaju/odin-recipes)
+- 🌐 [Landing Page](https://github.com/diegogaju/landing-page)
+- 🗄️ [PL/SQL Window Functions](https://github.com/diegogaju/plsql-window-functions-Diego-Gaju)
+- 🗄️ [PL/SQL PDB and OEM](https://github.com/diegogaju/plsql-pdb-oem-Diego-Gaju)
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego526-hub&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego526-hub&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diegogaju&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaju&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego526-hub&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegogaju&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
