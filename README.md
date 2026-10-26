@@ -50,7 +50,7 @@
 
 ## 📂 Featured Repositories
 
-- 🍳 [Odin Recipes](https://github.com/diegogaju/odin-recipes)
+- 🍳 [Odin Recipes](https://github.com/diegogaju/SchoolAPI)
 - 🌐 [Landing Page](https://github.com/diegogaju/landing-page)
 - 🗄️ [PL/SQL Window Functions](https://github.com/diegogaju/plsql-window-functions-Diego-Gaju)
 - 🗄️ [PL/SQL PDB and OEM](https://github.com/diegogaju/plsql-pdb-oem-Diego-Gaju)
