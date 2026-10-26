@@ -32,7 +32,9 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/u/Diego526-hub" width="230" alt="Diego's GitHub avatar](https://avatars.githubusercontent.com/u/136634342?v=4)"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+     width="180"
+     alt="GitHub logo"/>
 
 </td>
 </tr>
