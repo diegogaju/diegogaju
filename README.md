@@ -32,7 +32,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/u/Diego526-hub" width="230" alt="Diego's GitHub avatar"/>
+<img src="https://avatars.githubusercontent.com/u/Diego526-hub" width="230" alt="Diego's GitHub avatar](https://avatars.githubusercontent.com/u/136634342?v=4)"/>
 
 </td>
 </tr>
