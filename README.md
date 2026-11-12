@@ -55,15 +55,16 @@
 - 🗄️ [PL/SQL Window Functions](https://github.com/diegogaju/plsql-window-functions-Diego-Gaju)
 - 🗄️ [PL/SQL PDB and OEM](https://github.com/diegogaju/plsql-pdb-oem-Diego-Gaju)
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegogaju&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaju&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used languages"/>
+  <img src="./profile/stats.svg" height="170" alt="GitHub statistics"/>
+  <img src="./profile/top-langs.svg" height="170" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegogaju&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=diegogaju&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -71,3 +72,4 @@
 <p align="center">
   <i>Learning, building and improving one project at a time.</i>
 </p>
+
