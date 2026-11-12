@@ -51,7 +51,7 @@
 ## 📂 Featured Repositories
 
 - 🍳 [School Api](https://github.com/diegogaju/SchoolAPI)
-- 🌐 [Landing Page](https://github.com/diegogaju/landing-page)
+- 🍳 [NutritionvAnalysis and Health-Score Pipeline](https://github.com/diegogaju/Food-Nutrition-Analysis-Health-Score-Prediction)
 - 🗄️ [PL/SQL Window Functions](https://github.com/diegogaju/plsql-window-functions-Diego-Gaju)
 - 🗄️ [PL/SQL PDB and OEM](https://github.com/diegogaju/plsql-pdb-oem-Diego-Gaju)
 
