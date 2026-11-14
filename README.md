@@ -59,8 +59,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub statistics"/>
-  <img src="./profile/top-langs.svg" height="170" alt="Most used languages"/>
+  <img src="https://raw.githubusercontent.com/diegogaju/diegogaju/main/profile/stats.svg" height="170" alt="GitHub statistics"/>
+  <img src="https://raw.githubusercontent.com/diegogaju/diegogaju/main/profile/top-langs.svg" height="170" alt="Most used languages"/>
 </p>
 
 <p align="center">
