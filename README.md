@@ -1,60 +1,34 @@
+# Hi, I'm Diego Gaju 👋
 
-<h1 align="center">Hi 👋, I'm Diego Gaju</h1>
+**IT Student | Aspiring Data Engineer | Cybersecurity Learner**
 
-<h3 align="center">Data Engineering | Data Science | IT & Cybersecurity</h3>
+Based in Kigali, Rwanda | AUCA student | Building practical projects with data, databases, Linux, and security.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diego526-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 About Me
-
-- 🎓 Information Technology student at AUCA, Kigali, Rwanda
-- 📊 Interested in data engineering, analytics and machine learning
-- 🗄️ Working with SQL, databases and data processing
-- 🔐 Exploring cybersecurity, Linux and network security
-- 🛠️ Building practical projects to improve my technical skills
-- 📍 Kigali, Rwanda
-
-### 🤝 Connect with me
-
-<a href="https://www.linkedin.com/in/diego-gaju-70b49b187">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Diego526-hub">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"/>
-</a>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-     width="180"
-     alt="GitHub logo"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,postgres,git,github,vscode,linux,docker&perline=6" alt="Technology icons"/>
 </p>
 
-## 📂 Featured Repositories
+## 📦 Key Projects
 
-- 🍳 [School Api](https://github.com/diegogaju/SchoolAPI)
-- 🍳 [Nutrition Analysis and Health-Score Pipeline](https://github.com/diegogaju/Food-Nutrition-Analysis-Health-Score-Prediction)
-- 🗄️ [PL/SQL Window Functions](https://github.com/diegogaju/plsql-window-functions-Diego-Gaju)
-- 🗄️ [PL/SQL PDB and OEM](https://github.com/diegogaju/plsql-pdb-oem-Diego-Gaju)
+- 📊 [Food Nutrition Analysis & Health Score Prediction](https://github.com/diegogaju/Food-Nutrition-Analysis-Health-Score-Prediction) — Python project with separate data extraction and loading steps.
+- 🗄️ [Data Engineering Journey](https://github.com/diegogaju/Data-Engineering-Journey) — A 12-week learning journey focused on data engineering.
+- 🐧 [Linux Projects](https://github.com/diegogaju/linux-projects) — Linux hardening, Bash scripting, and a NAS setup with Suricata IDS.
+- 🏫 [School Safety Reporting API](https://github.com/diegogaju/SchoolAPI) — Spring Boot and PostgreSQL API for school incident reporting and location data.
+- 🧮 [PL/SQL Final Project](https://github.com/diegogaju/PL-AND-SQL-FINAL-PROJ) — Database project showcasing PL/SQL work.
 
+## 🎯 Currently Learning
+
+- Building and improving data pipelines
+- Python and SQL for data processing
+- PostgreSQL and database design
+- Linux system administration and defensive security
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-gaju-70b49b187)
+- 🐙 [GitHub](https://github.com/diegogaju)
 
 ## 📊 GitHub Statistics
 
@@ -72,4 +46,6 @@
 <p align="center">
   <i>Learning, building and improving one project at a time.</i>
 </p>
+## 💡 What I'm Working Toward
 
+Combining data engineering and security to build reliable systems and make data useful.
