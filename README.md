@@ -46,6 +46,4 @@ Based in Kigali, Rwanda | AUCA student | Building practical projects with data, 
 <p align="center">
   <i>Learning, building and improving one project at a time.</i>
 </p>
-## 💡 What I'm Working Toward
 
-Combining data engineering and security to build reliable systems and make data useful.
